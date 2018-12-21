@@ -1,0 +1,4 @@
+1) Set up environment
+2) Run logcat
+3) Run strace to trace all data (not only file)
+4) Capture network using tcpdump
