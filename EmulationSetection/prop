@@ -1,0 +1,7 @@
+Run command "getprop" and check:
+    [ro.debuggable]: [1]
+    [ro.secure]: [0]
+    [ro.build.tags]: [test-keys]
+
+Check if firmware is signed (/system/build.prop):
+    ro.build.tags=test-keys
